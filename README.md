@@ -9,7 +9,6 @@ Este projeto foi desenvolvido para investigar o comportamento de diferentes algo
 Os experimentos avaliam:
 
 * Tempo médio de execução;
-* Consumo de memória;
 * Número médio de iterações;
 * Influência do tamanho da entrada;
 * Influência da distribuição dos dados.
