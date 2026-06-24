@@ -41,7 +41,9 @@ Os experimentos avaliam:
 │
 ├── benchmark_analise/
 │
-└── resultados.csv
+├──resultados.csv
+│
+└── analise.ipynb
 ```
 
 ## Fluxo Experimental
