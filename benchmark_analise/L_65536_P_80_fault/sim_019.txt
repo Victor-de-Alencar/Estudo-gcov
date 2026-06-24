@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_019.gcov
+Categoria: L_65536_P_80_fault
+
+Linhas executáveis: 65536
+Linhas executadas: 52428
+Linhas não executadas: 13108
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 70.497
+Memória média (KB): 21356.000
+Iterações médias: 14.948
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 48.792
+Memória média (KB): 21356.000
+Iterações médias: 3.353
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 53.175
+Memória média (KB): 21356.000
+Iterações médias: 3.254
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 72.116
+Memória média (KB): 21356.000
+Iterações médias: 14.886
+

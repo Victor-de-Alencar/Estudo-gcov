@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_004.gcov
+Categoria: L_8192_P_80_fault
+
+Linhas executáveis: 8192
+Linhas executadas: 6553
+Linhas não executadas: 1639
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 57.588
+Memória média (KB): 21356.000
+Iterações médias: 11.955
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 47.333
+Memória média (KB): 21356.000
+Iterações médias: 3.231
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 52.470
+Memória média (KB): 21356.000
+Iterações médias: 3.114
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 67.021
+Memória média (KB): 21356.000
+Iterações médias: 10.872
+

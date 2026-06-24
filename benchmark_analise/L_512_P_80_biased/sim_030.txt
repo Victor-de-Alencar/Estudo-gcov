@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_030.gcov
+Categoria: L_512_P_80_biased
+
+Linhas executáveis: 512
+Linhas executadas: 409
+Linhas não executadas: 103
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 37.493
+Memória média (KB): 17532.000
+Iterações médias: 7.967
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 47.459
+Memória média (KB): 17532.000
+Iterações médias: 3.107
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 52.493
+Memória média (KB): 17532.000
+Iterações médias: 3.045
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 39.559
+Memória média (KB): 17532.000
+Iterações médias: 7.623
+

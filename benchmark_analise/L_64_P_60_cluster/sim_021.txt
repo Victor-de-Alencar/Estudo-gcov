@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_021.gcov
+Categoria: L_64_P_60_cluster
+
+Linhas executáveis: 64
+Linhas executadas: 38
+Linhas não executadas: 26
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 24.158
+Memória média (KB): 17452.000
+Iterações médias: 4.703
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 45.672
+Memória média (KB): 17452.000
+Iterações médias: 2.734
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 51.290
+Memória média (KB): 17452.000
+Iterações médias: 2.391
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 45.099
+Memória média (KB): 17452.000
+Iterações médias: 5.078
+

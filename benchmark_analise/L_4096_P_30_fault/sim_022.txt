@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_022.gcov
+Categoria: L_4096_P_30_fault
+
+Linhas executáveis: 4096
+Linhas executadas: 1228
+Linhas não executadas: 2868
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 41.161
+Memória média (KB): 17512.000
+Iterações médias: 10.063
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 51.951
+Memória média (KB): 17512.000
+Iterações médias: 3.464
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 62.460
+Memória média (KB): 17512.000
+Iterações médias: 3.297
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 48.546
+Memória média (KB): 17512.000
+Iterações médias: 9.654
+

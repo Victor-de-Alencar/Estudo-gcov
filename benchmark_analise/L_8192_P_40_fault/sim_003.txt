@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_003.gcov
+Categoria: L_8192_P_40_fault
+
+Linhas executáveis: 8192
+Linhas executadas: 3276
+Linhas não executadas: 4916
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 53.076
+Memória média (KB): 21640.000
+Iterações médias: 11.340
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 52.131
+Memória média (KB): 21640.000
+Iterações médias: 3.471
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 59.498
+Memória média (KB): 21640.000
+Iterações médias: 3.288
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 59.691
+Memória média (KB): 21640.000
+Iterações médias: 10.910
+

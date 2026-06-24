@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_033.gcov
+Categoria: L_512_P_80_fault
+
+Linhas executáveis: 512
+Linhas executadas: 409
+Linhas não executadas: 103
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 41.952
+Memória média (KB): 17532.000
+Iterações médias: 7.971
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 48.896
+Memória média (KB): 17532.000
+Iterações médias: 2.857
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 53.971
+Memória média (KB): 17532.000
+Iterações médias: 2.738
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 45.237
+Memória média (KB): 17532.000
+Iterações médias: 7.338
+

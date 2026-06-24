@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_024.gcov
+Categoria: L_2048_P_50_fault
+
+Linhas executáveis: 2048
+Linhas executadas: 1024
+Linhas não executadas: 1024
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 50.152
+Memória média (KB): 15380.000
+Iterações médias: 9.508
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 53.628
+Memória média (KB): 15380.000
+Iterações médias: 3.523
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 54.679
+Memória média (KB): 15380.000
+Iterações médias: 3.227
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 47.334
+Memória média (KB): 15380.000
+Iterações médias: 9.395
+

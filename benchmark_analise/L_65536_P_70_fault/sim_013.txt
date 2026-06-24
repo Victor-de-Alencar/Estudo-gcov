@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_013.gcov
+Categoria: L_65536_P_70_fault
+
+Linhas executáveis: 65536
+Linhas executadas: 45875
+Linhas não executadas: 19661
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 69.333
+Memória média (KB): 21208.000
+Iterações médias: 14.869
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 48.284
+Memória média (KB): 21208.000
+Iterações médias: 3.500
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 57.901
+Memória média (KB): 21208.000
+Iterações médias: 3.371
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 68.602
+Memória média (KB): 21208.000
+Iterações médias: 14.322
+

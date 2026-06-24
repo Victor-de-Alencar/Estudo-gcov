@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_019.gcov
+Categoria: L_65536_P_70_biased
+
+Linhas executáveis: 65536
+Linhas executadas: 45875
+Linhas não executadas: 19661
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 72.108
+Memória média (KB): 21208.000
+Iterações médias: 14.874
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 77.661
+Memória média (KB): 21208.000
+Iterações médias: 5.003
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 68.375
+Memória média (KB): 21208.000
+Iterações médias: 4.042
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 67.005
+Memória média (KB): 21208.000
+Iterações médias: 14.320
+

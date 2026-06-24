@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_018.gcov
+Categoria: L_16384_P_50_cluster
+
+Linhas executáveis: 16384
+Linhas executadas: 8192
+Linhas não executadas: 8192
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 57.071
+Memória média (KB): 15300.000
+Iterações médias: 12.502
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 102.947
+Memória média (KB): 15300.000
+Iterações médias: 6.852
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 93.934
+Memória média (KB): 15300.000
+Iterações médias: 5.252
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 60.200
+Memória média (KB): 15300.000
+Iterações médias: 12.878
+

@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_009.gcov
+Categoria: L_16384_P_40_uniform
+
+Linhas executáveis: 16384
+Linhas executadas: 6553
+Linhas não executadas: 9831
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 53.672
+Memória média (KB): 15424.000
+Iterações médias: 12.346
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 34.678
+Memória média (KB): 15424.000
+Iterações médias: 2.622
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 42.943
+Memória média (KB): 15424.000
+Iterações médias: 2.542
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 59.505
+Memória média (KB): 15424.000
+Iterações médias: 11.844
+

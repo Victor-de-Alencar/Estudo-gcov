@@ -1,0 +1,40 @@
+Arquivo GCOV: sim_018.gcov
+Categoria: L_512_P_70_uniform
+
+Linhas executáveis: 512
+Linhas executadas: 358
+Linhas não executadas: 154
+
+
+========================================
+Busca Binária
+========================================
+
+Tempo médio (ns): 33.176
+Memória média (KB): 17532.000
+Iterações médias: 7.875
+
+========================================
+Busca por Interpolação
+========================================
+
+Tempo médio (ns): 43.256
+Memória média (KB): 17532.000
+Iterações médias: 2.307
+
+========================================
+Busca Binary+Interpolation
+========================================
+
+Tempo médio (ns): 47.367
+Memória média (KB): 17532.000
+Iterações médias: 2.291
+
+========================================
+Busca Interpolation Once Binary
+========================================
+
+Tempo médio (ns): 52.960
+Memória média (KB): 17532.000
+Iterações médias: 6.965
+
